@@ -1,0 +1,1 @@
+My solution with Monte Carlo tree search for ['The Accountant'](https://www.codingame.com/hackathon/the-accountant) challenge at codingame.com.
