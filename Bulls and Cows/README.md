@@ -1,0 +1,1 @@
+Simple simulator for Bulls and Cows game.
